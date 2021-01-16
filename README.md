@@ -7,6 +7,5 @@
 - 📫 How to reach me: david@creativewavelength.co.uk 
 - ⚡ Little about me: I'm from Northern Ireland. My educational background is in Interactive Media 
 -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cwavedave)](https://github.com/cwavedave/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwavedave)](https://github.com/cwavedave/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwavedave)](https://github.com/cwavedave/github-readme-stats)
 
