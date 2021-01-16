@@ -8,5 +8,5 @@
 - ⚡ Little about me: I'm from Northern Ireland. My educational background is in Interactive Media 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwavedave)](https://github.com/cwavedave/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwavedave&layout=compact)](https://github.com/cwavedave/github-readme-stats)
 
