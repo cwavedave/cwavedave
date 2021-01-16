@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  -  I’m currently working on learning Python & MERN & improving my Spanish!
+- 🔭  -  I’m currently working on continuing my learning of Python / Django & MERN and also as important, improving my Spanish!
 - 🌱  -  I’m currently learning Python, Machine Learning with Tensorflow & Django
 - 🤔  -  I’m looking for help with Machine Learning
 - 💬  -  Ask me about: Freelancing, Web Design & Development, Python
