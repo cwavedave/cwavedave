@@ -8,7 +8,7 @@
 
 - 🤝 &nbsp; I’m looking for help with **Networking in Barcelona / Remote work**
 
-- 👨‍💻 &nbsp; All of my projects are available at [*coming soon](*coming soon)
+- 👨‍💻 &nbsp; My Freelancing Website is <a href="https://creative-wavelength.com"> Creative Wavelength </a> 
 
 - 💬 &nbsp; Ask me about **Python, Freelancing, Web Design & Development**
 
