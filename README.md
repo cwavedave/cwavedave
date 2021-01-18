@@ -3,6 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cwavedave" alt="cwavedave" /></a> </p>
 
+<hr>
+
 - 🔭 &nbsp; I’m currently working on [100 Days of Code Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
 - 🌱 &nbsp; I’m currently learning **Python, MERN**
