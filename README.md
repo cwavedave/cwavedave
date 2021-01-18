@@ -109,7 +109,10 @@
 
 <h4 align="center">Analytics</h4>
 <p align="center"> 
- 
+
+https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg
+<a href="https://analytics.google.com/analytics/web/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/> </a> 
+
 </p>
 
 <h4 align="center">Other</h4>
