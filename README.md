@@ -3,19 +3,19 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cwavedave" alt="cwavedave" /></a> </p>
 
-- 🔭 I’m currently working on [100 Days of Code Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+- 🔭 &nbsp; I’m currently working on [100 Days of Code Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
-- 🌱 I’m currently learning **Python, MERN**
+- 🌱 &nbsp; I’m currently learning **Python, MERN**
 
-- 🤝 I’m looking for help with **Networking in Barcelona / Remote work**
+- 🤝 &nbsp; I’m looking for help with **Networking in Barcelona / Remote work**
 
-- 👨‍💻 All of my projects are available at [*coming soon](*coming soon)
+- 👨‍💻 &nbsp; All of my projects are available at [*coming soon](*coming soon)
 
-- 💬 Ask me about **Python, Freelancing, Web Design & Development**
+- 💬 &nbsp; Ask me about **Python, Freelancing, Web Design & Development**
 
-- 📫 How to reach me **david@creativewavelength.co.uk**
+- 📫 &nbsp; How to reach me **david@creativewavelength.co.uk**
 
-- ⚡ Fun fact **I'm trying to develop better habits, like running 🏃 every day at 6am**
+- ⚡ Fun fact&nbsp; **I'm trying to develop better habits, like running 🏃 every day at 6am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
