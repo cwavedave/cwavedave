@@ -62,6 +62,12 @@
 
 </p>
 
+
+<h4 align="center">Backend Development</h4>
+<p align="center"> 
+<a href="https://wordpress.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>  
+</p>
+
 <h4 align="center">Mobile App Development</h4>
 <p align="center"> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
