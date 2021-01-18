@@ -63,7 +63,7 @@
 </p>
 
 
-<h4 align="center">Backend Development</h4>
+<h4 align="center">CMS</h4>
 <p align="center"> 
 <a href="https://wordpress.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>  
 </p>
