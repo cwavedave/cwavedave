@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate full stack developer from Northern Ireland</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cwavedave" alt="cwavedave" /></a> </p>
-
  <hr style="height:.1px; border:none; color:#000; background-color:#000; width:60%; text-align:center; margin: 0 auto;">
  
 - 🔭 &nbsp; I’m currently working on [100 Days of Code Bootcamp](https://www.udemy.com/course/100-days-of-code/)
