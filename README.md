@@ -14,7 +14,7 @@
 
 - 📫 &nbsp; How to reach me **david@creativewavelength.co.uk**
 
-- ⚡ Fun fact&nbsp; **I'm trying to develop better habits, like running 🏃 every day at 6am**
+- ⚡ Fun fact&nbsp; I run 🏃 every day at 6am
 
 <hr>
 
