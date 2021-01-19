@@ -14,6 +14,8 @@
 
 - 📫 &nbsp; How to reach me **david@creativewavelength.co.uk**
 
+- 🇪🇸 &nbsp; Native English Speaker, Learning Spanish
+
 - ⚡ Fun fact&nbsp; I run 🏃 every day at 6am
 
 <hr>
