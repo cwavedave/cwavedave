@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate full stack developer from Northern Ireland, Living in Osona, Barcelona</h3>
- <hr style="height:.1px; border:none; color:#000; background-color:#000; width:60%; text-align:center; margin: 0 auto;">
+<p align="center>  This Profile is best viewed in 'Lightmode' </p>
+<hr style="height:.1px; border:none; color:#000; background-color:#000; width:60%; text-align:center; margin: 0 auto;">
  
 - 🔭 &nbsp; I’m currently working on [100 Days of Code Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
@@ -22,7 +23,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- This Profile is best viewed in 'Lightmode' 
 <a href="https://dev.to/cwavedave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cwavedave" height="30" width="40" /></a>
 <a href="https://twitter.com/cwave_dave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cwave_dave" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cwave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cwave" height="30" width="40" /></a>
