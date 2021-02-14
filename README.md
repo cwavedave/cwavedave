@@ -17,7 +17,7 @@
 
 - 🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
-- ⚡ Fun fact&nbsp; I run 🏃 every day at 6am
+- ⚡ Fun fact&nbsp; I played American Football for 4 years
 
 <hr>
 
