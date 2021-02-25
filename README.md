@@ -96,6 +96,7 @@
 
 <h4 align="center">Framework</h4>
 <p align="center"> 
+ Learning <br> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 
 </p>
