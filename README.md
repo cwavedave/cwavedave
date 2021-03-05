@@ -13,7 +13,7 @@
 
 - 📫 &nbsp; How to reach me **david@creativewavelength.co.uk**
  
-- 🇮🇪+🇬🇧&nbsp; Northern Irish - Dual Nationality 
+- 🇮🇪🇬🇧&nbsp; Northern Irish - Dual Nationality 
 
 - 🇬🇧🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
