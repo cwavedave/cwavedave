@@ -7,8 +7,6 @@
 
 - 🌱 &nbsp; I’m currently learning **Python, MERN**
 
-- 🤝 &nbsp; I’m looking for help with **Networking in Barcelona / Remote work**
-
 - 👨‍💻 &nbsp; My Freelancing Website is <a href="https://creative-wavelength.com"> Creative Wavelength </a> 
 
 - 💬 &nbsp; Ask me about **Python, Freelancing, Web Design & Development**
@@ -20,6 +18,8 @@
 - 🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
 - ⚡ Fun fact&nbsp; I played American Football for 4 years
+
+- 🖥️ Available for Work in Barcelona, Spain / Remote Work
 
 <hr>
 
