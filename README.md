@@ -17,7 +17,7 @@
 
 - 🇬🇧🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
-- ⚡ Fun fact&nbsp; I played American Football for 4 years
+- ⚡ Fun fact&nbsp; Currently doing Couch to 5k
 
 - 🖥️ Available for Work in Barcelona, Spain / Remote Work
 
