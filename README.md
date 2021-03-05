@@ -15,7 +15,7 @@
  
 - 🇮🇪+🇬🇧&nbsp; Northern Irish - Dual Nationality 
 
-- 🇪🇸 &nbsp; Native English Speaker, Learning Spanish
+- 🇬🇧🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
 - ⚡ Fun fact&nbsp; I played American Football for 4 years
 
