@@ -21,6 +21,8 @@
 
 - 🖥️ Available for Work in Barcelona, Spain / Remote Work
 
+- 🧾 UK & ES VAT Registered for Freelance Work 
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
