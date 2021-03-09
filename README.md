@@ -13,15 +13,15 @@
 
 - 📫 &nbsp; How to reach me **david@creativewavelength.co.uk**
  
-- 🇮🇪🇬🇧&nbsp; Northern Irish - Dual Nationality 
+- 🇮🇪🇬🇧 &nbsp; Northern Irish - Dual Nationality 
 
 - 🇬🇧🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
-- ⚡ &nbspFun fact&nbsp; Currently doing Couch to 5k
+- ⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k
 
-- 🖥️ &nbspAvailable for Work in Barcelona, Spain / Remote Work
+- 🖥️ &nbsp; Available for Work in Barcelona, Spain / Remote Work
 
-- 🧾 &nbspUK & ES VAT Registered for Freelance Work 
+- 🧾 &nbsp; UK & ES VAT Registered for Freelance Work 
 
 <hr>
 
