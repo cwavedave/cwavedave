@@ -15,7 +15,7 @@
  
 - 🇮🇪 &nbsp;🇬🇧 &nbsp; Northern Irish - Dual Nationality 
 
-- 🇬🇧 &nbsp; 🇪🇸 &nbsp; Native English Speaker, Learning Spanish
+- 🇬🇧 &nbsp;🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
 - ⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k
 
