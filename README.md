@@ -3,7 +3,11 @@
 <p align="center">  This Profile is best viewed in 'Lightmode' </p>
 <hr style="height:.1px; border:none; color:#000; background-color:#000; width:60%; text-align:center; margin: 0 auto;">
  
-- 🔭 &nbsp; I’m currently working on <ul> <strong> <li> [100 Days of Code Bootcamp (APP BREWERY)](https://www.udemy.com/course/100-days-of-code/) </li>, <li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp"> The Complete Web Development Bootcamp (APP BREWERY) </a> </li> , <li> <a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7"> Introduction to Computer Science and Programming Using Python (MITx) </a></li> &  <li><a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials"> AWS Cloud practitioner essentials (AMAZON)</a> </strong> </li> </ul>
+- 🔭 &nbsp; I’m currently working on 
+- <ul> <strong> <li> [100 Days of Code Bootcamp (APP BREWERY)](https://www.udemy.com/course/100-days-of-code/) </li>
+- <li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp"> The Complete Web Development Bootcamp (APP BREWERY) </a> </li> 
+- <li> <a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7"> Introduction to Computer Science and Programming Using Python (MITx)</a></li> 
+- <li><a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials"> AWS Cloud practitioner essentials (AMAZON)</a> </strong> </li> </ul>
 
 - 🌱 &nbsp; I’m currently learning **Python, MERN**
 
