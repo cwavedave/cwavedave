@@ -7,7 +7,7 @@
 
 - 🌱 &nbsp; I’m currently learning **Python, MERN**
 
-- 👨‍💻 &nbsp; My Freelancing Website is <a href="https://creative-wavelength.com"> Creative Wavelength </a> 
+- 👨‍💻 &nbsp; My Freelancing Website is <strong> <a href="https://creative-wavelength.com"> Creative Wavelength </a> </strong>
 
 - 💬 &nbsp; Ask me about **Python, Freelancing, Web Design & Development**
 
