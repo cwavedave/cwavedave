@@ -3,7 +3,7 @@
 <p align="center">  This Profile is best viewed in 'Lightmode' </p>
 <hr style="height:.1px; border:none; color:#000; background-color:#000; width:60%; text-align:center; margin: 0 auto;">
  
-- 🔭 &nbsp; I’m currently working on [100 Days of Code Bootcamp](https://www.udemy.com/course/100-days-of-code/), Introduction to Computer Science and Programming Using Python (MITx) & AWS Cloud practitioner essentials
+- 🔭 &nbsp; I’m currently working on <strong> [100 Days of Code Bootcamp (APP BREWERY)](https://www.udemy.com/course/100-days-of-code/) </strong>,<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp"> The Complete Web Development Bootcamp (APP BREWERY) </a>  , Introduction to Computer Science and Programming Using Python (MITx) & AWS Cloud practitioner essentials (AMAZON)
 
 - 🌱 &nbsp; I’m currently learning **Python, MERN**
 
