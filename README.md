@@ -17,11 +17,11 @@
 
 - 🇬🇧🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
-- ⚡ Fun fact&nbsp; Currently doing Couch to 5k
+- ⚡ &nbspFun fact&nbsp; Currently doing Couch to 5k
 
-- 🖥️ Available for Work in Barcelona, Spain / Remote Work
+- 🖥️ &nbspAvailable for Work in Barcelona, Spain / Remote Work
 
-- 🧾 UK & ES VAT Registered for Freelance Work 
+- 🧾 &nbspUK & ES VAT Registered for Freelance Work 
 
 <hr>
 
