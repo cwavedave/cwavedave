@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
-<h3 align="center">A passionate full stack developer from Northern Ireland <br> Located in Osona, Barcelona</h3>
+<h3 align="center">A <strong>passionate self-taught </strong> full stack developer from Northern Ireland <br> Located in Osona, Barcelona</h3>
 <hr style="height:.1px; border:none; color:#000; background-color:#000; width:60%; text-align:center; margin: 0 auto;">
  
 - 🔭 &nbsp; I’m currently working on 
