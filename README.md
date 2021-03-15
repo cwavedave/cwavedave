@@ -39,7 +39,8 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools I have used:</h3>
+<h3 align="center">Languages & Tools</h3>
+<h2></h2>
 <h4 align="center">Programming Languages</h4>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
