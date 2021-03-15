@@ -37,6 +37,8 @@
 <a href="https://medium.com/@david_57550" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@david_57550" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 <h3 align="center">Languages and Tools I have used:</h3>
 <h4 align="center">Programming Languages</h4>
 <p align="center"> 
