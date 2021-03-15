@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A <strong>passionate self-taught </strong>full stack developer from Northern Ireland <br> Located in Osona, Barcelona</h3>
  
+ <h2> What's new? </h2>
+ 
 - 🔭 &nbsp; I’m currently working on 
 - <ul> <strong> <li> <a href="https://www.udemy.com/course/100-days-of-code/"> 100 Days of Code Bootcamp (APP BREWERY)</a> </li><li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp"> The Complete Web Development Bootcamp (APP BREWERY)</a></li><li><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7"> Introduction to Computer Science and Programming Using Python (MITx)</a></li><li><a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials"> AWS Cloud practitioner essentials (AMAZON)</a> </strong> </li> </ul>
 
