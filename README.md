@@ -6,6 +6,8 @@
 - 🔭 &nbsp; I’m currently working on 
 - <ul> <strong> <li> <a href="https://www.udemy.com/course/100-days-of-code/"> 100 Days of Code Bootcamp (APP BREWERY)</a> </li><li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp"> The Complete Web Development Bootcamp (APP BREWERY)</a></li><li><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7"> Introduction to Computer Science and Programming Using Python (MITx)</a></li><li><a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials"> AWS Cloud practitioner essentials (AMAZON)</a> </strong> </li> </ul>
 
+<h2> Snapshot about me </h2>
+
 - 🌱 &nbsp; I’m currently mostly using **Python, MERN and Wordpress for client websites**
 
 - 👨‍💻 &nbsp; My Freelancing Website is <strong> <a href="https://creative-wavelength.com"> Creative Wavelength </a> </strong>
@@ -34,8 +36,6 @@
 <a href="https://instagram.com/cwave_dave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cwave_dave" height="30" width="40" /></a>
 <a href="https://medium.com/@david_57550" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@david_57550" height="30" width="40" /></a>
 </p>
-
-<hr>
 
 <h3 align="center">Languages and Tools I have used:</h3>
 <h4 align="center">Programming Languages</h4>
