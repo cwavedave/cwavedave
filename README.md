@@ -28,8 +28,8 @@
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://dev.to/cwavedave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cwavedave" height="30" width="40" /></a>
 <a href="https://twitter.com/cwave_dave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cwave_dave" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cwave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cwave" height="30" width="40" /></a>
