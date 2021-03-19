@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center"><strong>A Passionate Self & Community Taught </strong> <br>
-<ul>Full Stack Developer </ul><br>
+ <u>Full Stack Developer </u><br>
 from Northern Ireland <br> Located in Osona, Barcelona
  
  <h2> What's new? </h2>
