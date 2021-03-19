@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
-<h3 align="center">A <strong>passionate self / communitytaught </strong> 
+<h3 align="center">A <strong>passionate self / communitytaught </strong> <br>
 Full Stack Developer <br>
 from Northern Ireland <br> Located in Osona, Barcelona
  
