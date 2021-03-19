@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
-<h3 align="center">A <strong>passionate self-taught </strong> 
-<h2> <img src="https://media2.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="30px" height="30px"></img>Full Stack Developer<img src="https://media2.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="30px" height="30px"></img> </h4>
-from Northern Ireland <br> Located in Osona, Barcelona</h2>
+<h3 align="center">A <strong>passionate self / communitytaught </strong> 
+Full Stack Developer <br>
+from Northern Ireland <br> Located in Osona, Barcelona
  
  <h2> What's new? </h2>
  
