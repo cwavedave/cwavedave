@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
-<h3 align="center">A <strong>passionate self-taught </strong>full stack developer <img src="https://media2.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif"></img> from Northern Ireland <br> Located in Osona, Barcelona</h3>
+<h3 align="center">A <strong>passionate self-taught </strong>full stack developer <img src="https://media2.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="10px" height="10px"></img> from Northern Ireland <br> Located in Osona, Barcelona</h3>
  
  <h2> What's new? </h2>
  
