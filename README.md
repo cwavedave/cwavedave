@@ -26,7 +26,7 @@ from Northern Ireland <br> Located in Osona, Barcelona
 
 - 🖥️ &nbsp; Available for Work in Barcelona / Remote Work
 
-- 🧾 &nbsp; UK & ES VAT Registered for Freelance Work 
+- 🧾 &nbsp; ES & UK VAT Registered for Freelance Work 
 
 <h2>Connect with me:</h2>
 <p>
