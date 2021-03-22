@@ -24,7 +24,7 @@ from Northern Ireland <br> Located in Osona, Barcelona
 
 - ⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k (Week 3)
 
-- 🖥️ &nbsp; Available for Work in Barcelona, Spain / Remote Work
+- 🖥️ &nbsp; Available for Work in Barcelona / Remote Work
 
 - 🧾 &nbsp; UK & ES VAT Registered for Freelance Work 
 
