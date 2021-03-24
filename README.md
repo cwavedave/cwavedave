@@ -22,7 +22,7 @@ from Northern Ireland <br> Located in Osona, Barcelona
 
 - 🇬🇧 &nbsp;🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
-- ⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k (Week 3)
+- ⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k (Week 4)
 
 - 🖥️ &nbsp; Contract Worker for LifeStyleWorkWeek
 
