@@ -24,7 +24,7 @@ from Northern Ireland <br> Located in Osona, Barcelona
 
 - ⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k (Week 4)
 
-- 🖥️ &nbsp; Contract Worker for LifeStyleWorkWeek
+- 🖥️ &nbsp; Contract Worker (WordPress / PHP) for LifeStyleWorkWeek
 
 - 🧾 &nbsp; ES & UK VAT Registered for Freelance Work 
 
