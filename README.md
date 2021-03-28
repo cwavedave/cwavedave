@@ -13,7 +13,7 @@ from Northern Ireland <br> Located in Osona, Barcelona
 
 <h2> Snapshot of me </h2>
 
-🌱 &nbsp; I’m currently mostly using **Python, MERN and Wordpress for client websites**
+🌱 &nbsp; I work with **Python, MERN and Wordpress for client websites**
 
 👨‍💻 &nbsp; My Freelancing Website is <strong> <a href="https://creative-wavelength.com"> Creative Wavelength </a> </strong>
 
