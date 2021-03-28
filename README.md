@@ -5,31 +5,31 @@ from Northern Ireland <br> Located in Osona, Barcelona
  
  <h2> What's new? </h2>
  
-- 🔭 &nbsp; <strong> Courses Working on </strong>
+🔭 &nbsp; <strong> Courses Working on </strong>
 - <ul> <strong> <li> <a href="https://www.udemy.com/course/100-days-of-code/"> 100 Days of Code Bootcamp (APP BREWERY)</a> </li><li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp"> The Complete Web Development Bootcamp (APP BREWERY)</a></li><li><a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials"> AWS Cloud practitioner essentials (AMAZON)</a> </strong> </li> </ul>
 
-- 🎓 &nbsp <strong> Finished Courses 2021 </strong>
+🎓 &nbsp; <strong> Finished Courses 2021 </strong>
 <ul><li><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7"> Introduction to Computer Science and Programming Using Python (MITx)</a></li></ul>
 
 <h2> Snapshot of me </h2>
 
-- 🌱 &nbsp; I’m currently mostly using **Python, MERN and Wordpress for client websites**
+🌱 &nbsp; I’m currently mostly using **Python, MERN and Wordpress for client websites**
 
-- 👨‍💻 &nbsp; My Freelancing Website is <strong> <a href="https://creative-wavelength.com"> Creative Wavelength </a> </strong>
+👨‍💻 &nbsp; My Freelancing Website is <strong> <a href="https://creative-wavelength.com"> Creative Wavelength </a> </strong>
 
-- 💬 &nbsp; Ask me about **Python, Freelancing, Web Design & Development**
+💬 &nbsp; Ask me about **Python, Freelancing, Web Design & Development**
 
-- 📫 &nbsp; How to reach me **david@creativewavelength.co.uk**
+📫 &nbsp; How to reach me **david@creativewavelength.co.uk**
  
-- 🇮🇪 &nbsp;🇬🇧 &nbsp; Northern Irish - Dual Nationality 
+🇮🇪 &nbsp;🇬🇧 &nbsp; Northern Irish - Dual Nationality 
 
-- 🇬🇧 &nbsp;🇪🇸 &nbsp; Native English Speaker, Learning Spanish
+🇬🇧 &nbsp;🇪🇸 &nbsp; Native English Speaker, Learning Spanish
 
-- ⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k (Week 4)
+⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k (Week 4)
 
-- 🖥️ &nbsp; Contract Worker (WordPress / PHP) for LifeStyleWorkWeek
+🖥️ &nbsp; Contract Worker (WordPress / PHP) for LifeStyleWorkWeek
 
-- 🧾 &nbsp; ES & UK VAT Registered for Freelance Work 
+🧾 &nbsp; ES & UK VAT Registered for Freelance Work 
 
 <h2>Connect with me:</h2>
 <p>
