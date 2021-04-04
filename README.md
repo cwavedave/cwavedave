@@ -23,9 +23,9 @@ from Northern Ireland <br> Located in Osona, Barcelona
  
 🇮🇪 &nbsp;🇬🇧 &nbsp; Northern Irish - Dual Nationality 
 
-🇬🇧 &nbsp;🇪🇸 &nbsp; Native English Speaker, Learning Spanish
+🇬🇧 &nbsp;🇪🇸 &nbsp; Native English Speaker, *Slowly* Learning Spanish
 
-⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k (Week 4)
+⚡ &nbsp; Fun fact&nbsp; Currently doing Couch to 5k (Week )
 
 🖥️ &nbsp; Contract Worker (WordPress / PHP) for LifeStyleWorkWeek
 
