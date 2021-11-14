@@ -91,11 +91,6 @@ from Northern Ireland <br> Located in Osona, Barcelona
 
 </p>
 
-<h4 align="center">AI / Machine Learning</h4>
-<p align="center"> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
-
 <h4 align="center">Databases</h4>
 <p align="center"> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
