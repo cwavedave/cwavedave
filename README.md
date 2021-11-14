@@ -21,7 +21,7 @@ from Northern Ireland <br> Located in Osona, Barcelona
 
 👨‍💻 &nbsp; My Freelancing Website is <strong> <a href="https://creative-wavelength.com"> Creative Wavelength </a> </strong>
 
-💬 &nbsp; Ask me about **Python, Freelancing, Web Design & Development**
+💬 &nbsp; Ask me about **Javascript, Python, Freelancing, Web Design & Development**
 
 📫 &nbsp; How to reach me **david@creativewavelength.co.uk**
  
