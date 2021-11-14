@@ -10,7 +10,9 @@ from Northern Ireland <br> Located in Osona, Barcelona
  </ul>
 <h3>🎓 &nbsp; Finished Courses 2021 </h3>
 <ul><li><strong><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7"> Introduction to Computer Science and Programming Using Python (MITx)</a></strong></li><li><a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials"> AWS Cloud practitioner essentials (AMAZON)</a> </strong> </li> </ul>
-
+<h3>📚 &nbsp; Reading � </h3>
+<ul>
+ <li> Javascript & Jquery - Jon Duckett </li>
 </ul>
 
 <h2> Snapshot of me </h2>
@@ -28,6 +30,10 @@ from Northern Ireland <br> Located in Osona, Barcelona
 🇬🇧 &nbsp;🇪🇸 &nbsp; Native English Speaker, *Slowly* Learning Spanish
 
 🖥️ &nbsp; Contract Worker (WordPress / PHP) for LifeStyleWorkWeek
+
+🧠 Skilled at: CRM's - Infusionsoft / Keap. Zapier / Automation. On Site-SEO, Web Design & Development. Client management. 
+
+🎓 Learning: RPA's / automation of work flows / learning Google API's for handling sheets. Improving form validation
 
 🧾 &nbsp; ES & UK VAT Registered for Freelance Work 
 
